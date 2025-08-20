@@ -13,6 +13,7 @@ const myFunction = function(){
 }
 
 console.log(typeof myObj)
+console.log("ua??")
 
 /* # Primitive datatypes
 
@@ -24,4 +25,3 @@ console.log(typeof myObj)
 
 Array , Objects , Functions 
 */
-
